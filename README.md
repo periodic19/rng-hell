@@ -1,5 +1,4 @@
-RNG HELL
-a simple python terminal game
+RNG HELL - a simple python terminal game
 
 uhhh run it either on your own compiler or an online one
 heres an online compiler to get you started:
